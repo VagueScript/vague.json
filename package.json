@@ -1,0 +1,27 @@
+{
+  "name": "vague.json",
+  "version": "1.0.0",
+  "description": "JSON schema(s) for VagueScript configuration files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VagueScript/vague.json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VagueScript/vague.json/issues"
+  },
+  "homepage": "https://github.com/VagueScript/vague.json#readme",
+  "dependencies": {
+    "json": "^11.0.0",
+    "jsonschema": "^1.4.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
